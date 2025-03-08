@@ -23,6 +23,8 @@ class MainActivity : AppCompatActivity() {
 
         // Example of a call to a native method
         binding.sampleText.text = "Hello World"
+        ByteTest.test()
+
     }
 
     override fun onDestroy() {

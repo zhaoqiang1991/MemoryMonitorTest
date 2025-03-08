@@ -11,12 +11,6 @@ import java.nio.file.Paths
 import java.text.SimpleDateFormat
 import java.util.*
 
-/**
- * 作者：Vaccae
- * 邮箱：3657447@qq.com
- * 创建时间： 15:13
- * 功能模块说明：
- */
 
 object Monitor {
 
